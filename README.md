@@ -20,6 +20,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratD26/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/PratD26/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/PratD26/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/PratD26/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/PratD26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/PratD26/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Simulation
@@ -42,4 +44,5 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratD26/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/PratD26/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
