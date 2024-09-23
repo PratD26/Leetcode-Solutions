@@ -10,6 +10,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratD26/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/PratD26/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratD26/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PratD26/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PratD26/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -46,6 +47,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/PratD26/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratD26/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PratD26/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
