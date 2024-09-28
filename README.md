@@ -39,6 +39,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/PratD26/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PratD26/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/PratD26/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/PratD26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
