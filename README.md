@@ -22,6 +22,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PratD26/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/PratD26/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PratD26/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/PratD26/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | ------- |
 | [0058-length-of-last-word](https://github.com/PratD26/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PratD26/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/PratD26/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/PratD26/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PratD26/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/PratD26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
