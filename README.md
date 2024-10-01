@@ -41,6 +41,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PratD26/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PratD26/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/PratD26/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PratD26/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -78,4 +79,8 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PratD26/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PratD26/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
