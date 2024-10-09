@@ -2,17 +2,19 @@ class Solution {
     public int maxProduct(int[] nums) {
         
         int max_prod = Integer.MIN_VALUE;
-        int maxloc = 1;
-        int minloc = 1;
+        int prod = 1;
 
         for (int i=0;i<nums.length;i++){
             
-            int p1 = maxloc*nums[i];
-            int p2 = minloc*nums[i];
-            maxloc = Math.max(nums[i], Math.max(p1,p2));
-            minloc = Math.min(nums[i], Math.min(p1,p2));
-            max_prod = Math.max(max_prod, maxloc);
+            max_prod = Math.max(prod *= nums[i], max_prod);
+            if (nums[i] == 0) prod = 1;
 
+        }
+
+        prod = 1;
+        for(int i = nums.length - 1; i >= 0; i--) {
+            max_prod = Math.max(prod *= nums[i], max_prod);
+            if (nums[i] == 0) prod = 1;
         }
 
         return max_prod;
