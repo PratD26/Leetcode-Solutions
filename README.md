@@ -9,6 +9,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | [0001-two-sum](https://github.com/PratD26/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/PratD26/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratD26/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/PratD26/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -64,6 +65,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PratD26/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PratD26/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/PratD26/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -83,4 +85,8 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratD26/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PratD26/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
