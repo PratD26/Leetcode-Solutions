@@ -39,6 +39,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PratD26/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/PratD26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -91,4 +92,8 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PratD26/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PratD26/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
