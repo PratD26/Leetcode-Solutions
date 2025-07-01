@@ -16,6 +16,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | [0162-find-peak-element](https://github.com/PratD26/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratD26/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PratD26/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PratD26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PratD26/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1791-richest-customer-wealth](https://github.com/PratD26/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
@@ -26,6 +27,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | [0001-two-sum](https://github.com/PratD26/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/PratD26/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PratD26/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PratD26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/PratD26/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
@@ -41,6 +43,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | ------- |
 | [0050-powx-n](https://github.com/PratD26/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/PratD26/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/PratD26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PratD26/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -64,6 +67,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | [0069-sqrtx](https://github.com/PratD26/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/PratD26/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PratD26/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PratD26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PratD26/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
@@ -78,6 +82,7 @@ A Github Repository containing all my Leetcode Practice Solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PratD26/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PratD26/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PratD26/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -98,4 +103,8 @@ A Github Repository containing all my Leetcode Practice Solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PratD26/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PratD26/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
